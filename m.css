@@ -1,0 +1,35 @@
+* *{
+	box-sizing: border-box;
+}
+.flexbox {
+	 display: flex;
+  flex-wrap: wrap;
+	justify-content:space-around;
+	
+
+	
+	
+}
+.se {
+	 padding: 30px 10px;
+  border: 1px solid grey;
+  text-align: center;
+  margin: 30px;
+  max-width: 500px;
+  min-width: 500px;
+  min-height: 300px;
+  max-heigth: 300px;
+
+
+}
+.sh {
+	border: 5px solid rgba(28,31,76,0.79);
+	background: url("1.jpg") no-repeat center center ;
+}
+
+.tx {
+	background: #00848c;
+	color: white;
+	border: 5px solid #037272;
+	
+}

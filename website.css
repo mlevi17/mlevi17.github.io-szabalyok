@@ -20,7 +20,7 @@
 }
 .nav li {
 	display: inline-block;
-	padding: 0 25px ; /*check*/
+	padding: 0 25px ; 
 	font-size: 20px;
 	color: #fec20f;
 }
@@ -36,7 +36,7 @@
 }
 .logo a img{
 	width:50px;
-	margin: 3px 0 0 0;
+	margin: 8px 0 0 0;
 }
 .banner{
 	position: relative;
@@ -73,7 +73,7 @@
   max-width: 500px;
   min-width: 500px;
   min-height: 300px;
-  max-heigth: 300px;
+  max-height: 300px;
 }
 .slideshow {
  position: relative;
@@ -121,7 +121,7 @@
 }
 .button{
 	transition-duration: 1s;
-	padding: 7.5px;
+	padding: 4px;
 	border: 2px solid rgba(0,0,0,0);
 	
 }
@@ -173,7 +173,7 @@
 }
 .subtitle1{
 	color: #1c1f4c;
-	backgroubd-color: #edebd9;
+	background-color: white;
 	border:5px dashed #1c1f4c;
 	box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
